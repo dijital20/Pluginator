@@ -2,9 +2,9 @@
 Just a simple script to generate random strings based on a template string and text files with fill-in choices.
 
 ## Usage
-Pluginator.py <Template string> <file 1> [<file 2>...]
+Pluginator.py TEMPLATE_STRING FILE1 [FILE2 FILE3 ...]
 
-Template string should be a string containing one or more placeholders in curly braces {}. The placeholder names should correspond to the file names used for file1, file2, etc.
+TEMPLATE_STRING should be a string containing one or more placeholders in curly braces {}. The placeholder names should correspond to the file names used for FILE1, FILE2, etc.
 
 For instance:
 Pluginator.py "This {food} is good." food.txt
