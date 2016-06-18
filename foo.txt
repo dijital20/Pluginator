@@ -1,0 +1,7 @@
+Monkey
+Pig
+Cat
+Dog
+Mouse
+Ferret
+Hamster
